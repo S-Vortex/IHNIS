@@ -1,2 +1,2 @@
 # IHNIS
-A dragon platformer
+A dragon RPSG
